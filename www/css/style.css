@@ -68,3 +68,7 @@
     body{
       background-color: skyblue
     }
+    button{
+      color: red;
+      font-style: italic;
+    }
